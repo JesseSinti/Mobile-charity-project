@@ -11,7 +11,7 @@
 .body {
         background: linear-gradient(red,white);
     }
-h1 {
+.head {
         color: antiquewhite;
     }
 .poorkids {
@@ -32,7 +32,7 @@ h1 {
 .body {
     background: linear-gradient(black,white);
 }
-h1 {
+.head {
     color: antiquewhite;
 }
 .poorkids {
@@ -53,7 +53,7 @@ h1 {
 .body {
     background: linear-gradient(blue,white);
 }
-h1 {
+.head {
     color: antiquewhite;
 }
 .poorkids {
@@ -74,7 +74,7 @@ h1 {
 .body {
     background: linear-gradient(gray,white);
 }
-h1 {
+.head {
     color: antiquewhite;
 }
 .poorkids {
