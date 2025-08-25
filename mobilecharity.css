@@ -1,0 +1,85 @@
+@media only screen and (min-width: 992px) {
+#Logo {
+        width: 25%;
+        height: 25%;
+    }
+#infotxt {
+        font-size: 16pt;
+        color:red;
+
+    }
+.body {
+        background: linear-gradient(red,white);
+    }
+h1 {
+        color: antiquewhite;
+    }
+.poorkids {
+        width: 40%;
+        height: 40%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #Logo {
+    width: 15%;
+    height: 15%;
+}
+#infotxt {
+    font-size: 10pt;
+    color:red;
+
+}
+.body {
+    background: linear-gradient(black,white);
+}
+h1 {
+    color: antiquewhite;
+}
+.poorkids {
+    width: 15%;
+    height: 15%;
+}
+}
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    #Logo {
+    width: 15%;
+    height: 15%;
+}
+#infotxt {
+    font-size: 12pt;
+    color:red;
+
+}
+.body {
+    background: linear-gradient(blue,white);
+}
+h1 {
+    color: antiquewhite;
+}
+.poorkids {
+    width: 15%;
+    height: 15%;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    #Logo {
+    width: 20%;
+    height: 20%;
+}
+#infotxt {
+    font-size: 14pt;
+    color:red;
+
+}
+.body {
+    background: linear-gradient(gray,white);
+}
+h1 {
+    color: antiquewhite;
+}
+.poorkids {
+    width: 20%;
+    height: 20%;
+}
+}
+
